@@ -1,0 +1,1 @@
+SELECT * FROM `my-first-project-321510.test_domo_datasets.test_gcs_csv` LIMIT 10;
